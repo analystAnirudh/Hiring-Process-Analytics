@@ -93,7 +93,7 @@ Data Analytics Techniques (Outlier Detection, Salary Distribution, Data Summariz
 📬 Let's Connect:🌐
 LinkedIn: www.linkedin.com/in/anirrudhchaudhry
 
-E-mail: anirudh.chaudharyofficial@gmail.com
+           E-mail: anirudh.chaudharyofficial@gmail.com
 
 
 Happy Analyzing! 📊🎯
