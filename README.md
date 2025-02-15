@@ -1,4 +1,5 @@
-*Hiring Process Analytics*
+Hiring Process Analytics
+
 📌 Description
 Understanding and optimizing the hiring process is crucial for any organization. In this project, you will analyze hiring data to uncover trends, improve recruitment strategies, and provide valuable insights to decision-makers. Using Excel, you will clean, process, and visualize data to answer key business questions related to hiring, salaries, and departmental distribution.
 
