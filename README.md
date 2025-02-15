@@ -72,6 +72,7 @@ Data Analytics Techniques (Outlier Detection, Salary Distribution, Data Summariz
 
 
 
+
 💡 Insights & Business Impact
 🔹By analyzing hiring data, this project provides actionable insights to:
 
@@ -85,6 +86,7 @@ Data Analytics Techniques (Outlier Detection, Salary Distribution, Data Summariz
 
 
 
+
 📩 Contribute & Connect
 🔗 If you find this project helpful or have suggestions for improvement, feel free to contribute!
 
@@ -93,7 +95,7 @@ Data Analytics Techniques (Outlier Detection, Salary Distribution, Data Summariz
 📬 Let's Connect:🌐
 LinkedIn: www.linkedin.com/in/anirrudhchaudhry
 
-           E-mail: anirudh.chaudharyofficial@gmail.com
+E-mail: anirudh.chaudharyofficial@gmail.com
 
 
 Happy Analyzing! 📊🎯
