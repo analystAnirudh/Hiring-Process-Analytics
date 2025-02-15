@@ -16,7 +16,9 @@ This project is ideal for:
 ✔ Business Managers & Decision-Makers interested in understanding workforce trends and hiring effectiveness.
 
 
+
 🔍 Key Objectives
+
 ✔ Handling Missing Data: Identify and manage missing values efficiently.
 
 ✔ Data Cleaning & Clubbing Columns: Simplify data by merging relevant categories.
@@ -60,6 +62,7 @@ Data Analytics Techniques (Outlier Detection, Salary Distribution, Data Summariz
 
 
 📥 How to Use
+
 🔹Download the dataset (Check RAW Data-Folder) ♻
 
 🔹Load it into Excel and clean the data.
@@ -74,6 +77,7 @@ Data Analytics Techniques (Outlier Detection, Salary Distribution, Data Summariz
 
 
 💡 Insights & Business Impact
+
 🔹By analyzing hiring data, this project provides actionable insights to:
 
 🔹Improve recruitment efficiency.
@@ -88,6 +92,7 @@ Data Analytics Techniques (Outlier Detection, Salary Distribution, Data Summariz
 
 
 📩 Contribute & Connect
+
 🔗 If you find this project helpful or have suggestions for improvement, feel free to contribute!
 
 
