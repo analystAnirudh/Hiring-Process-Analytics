@@ -51,7 +51,7 @@ Represent the position tiers within the company using appropriate visualizations
 
 ## 📝 How to Use  
 
-🔹 **Download the dataset** (Check RAW Data-Folder) ♻  
+🔹 **Download the dataset** (Check RAW Data File) ♻  
 🔹 **Load it into Excel** and clean the data.  
 🔹 **Perform analysis** using Excel formulas, pivot tables, and charts.  
 🔹 **Generate insights** and visualize key findings.  
