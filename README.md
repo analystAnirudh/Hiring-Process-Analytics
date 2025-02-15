@@ -1,6 +1,5 @@
 # Hiring Process Analytics
 
-![Uploading Module_4_mini_project.png…]()
 
 
 ## 📌 Description  
